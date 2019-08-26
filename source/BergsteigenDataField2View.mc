@@ -159,7 +159,7 @@ class BergsteigenDataField2View extends WatchUi.DataField {
 
         // elapsed distance
         value = View.findDrawableById("elapsedDistance");
-        value.setText((elapsedDistance).format("%.2f"));
+        value.setText((elapsedDistance / 1000).format("%.2f"));
 
         // temperature
         value = View.findDrawableById("temperature");
