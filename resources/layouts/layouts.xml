@@ -11,7 +11,8 @@
         <label id="sunrise"               x="210"    y="57"  color="Graphics.COLOR_BLACK"   justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Graphics.FONT_LARGE" />
         <label id="sunset"                x="210"    y="82"  color="Graphics.COLOR_BLACK"   justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Graphics.FONT_LARGE" />
 
-        <label id="currentHeading"        x="130"    y="105" color="Graphics.COLOR_BLACK"   justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Graphics.FONT_XTINY" />
+        <label id="currentHeading"        x="50"     y="109" color="Graphics.COLOR_BLACK"   justification="Graphics.TEXT_JUSTIFY_LEFT"  font="Graphics.FONT_XTINY" />
+        <label id="currentHeadingDeg"     x="130"    y="109" color="Graphics.COLOR_BLACK"   justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Graphics.FONT_XTINY" />
 
         <label id="labelCalories"         x="85"     y="160" color="Graphics.COLOR_DK_GRAY" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Graphics.FONT_SMALL" />
         <label id="calories"              x="90"     y="130" color="Graphics.COLOR_BLACK"   justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Graphics.FONT_NUMBER_MILD" />

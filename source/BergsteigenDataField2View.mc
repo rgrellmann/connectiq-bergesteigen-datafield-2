@@ -71,9 +71,6 @@ class BergsteigenDataField2View extends WatchUi.DataField {
         if (info has :currentLocation) {
             if (info.currentLocation != null) {
                 currentLocation = info.currentLocation;
-                currentLocation = new Position.Location(
-                    {:latitude => 47.57136, :longitude => 10.5655, :format => :degrees}
-                );
                 var sc = new SunCalc();
                 var now = Time.now();
                 var loc = currentLocation.toRadians();
@@ -107,30 +104,18 @@ class BergsteigenDataField2View extends WatchUi.DataField {
         if (getBackgroundColor() == Graphics.COLOR_BLACK) {
             foregroundColor = Graphics.COLOR_WHITE;
         }
-       var drawables = ["calories", "elapsedDistance", "sunrise", "sunset", "currentLat", "currentLon", "temperature"];
+        var drawables = ["calories", "elapsedDistance", "sunrise", "sunset", "currentLat", "currentLon", "temperature", "currentHeading", "currentHeadingDeg"];
         for (var i = 0; i < drawables.size(); i++) {
             var drawable = View.findDrawableById(drawables[i]);
             drawable.setColor(foregroundColor);
         }
 
-        var value = View.findDrawableById("calories");
-        value.setText(calories.format("%d"));
-
-        value = View.findDrawableById("temperature");
-        value.setText(temperature.format("%d") + "°C");
-
-        value = View.findDrawableById("meanSeaLevelPressure");
-        value.setText((ambientPressure / 100).format("%d") + "/" + (meanSeaLevelPressure / 100).format("%d") + "hPa");
-
-        value = View.findDrawableById("currentHeading");
-        value.setText(Math.toDegrees(currentHeading));
-
+        var value;
+        // clock time
         value = View.findDrawableById("clockTime");
         value.setText(Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]));
 
-        value = View.findDrawableById("elapsedDistance");
-        value.setText((elapsedDistance + 10).format("%.2f"));
-
+        // position (lat/lon)
         if (currentLocation instanceof Toybox.Position.Location) {
             var locationDecimal = currentLocation.toDegrees();
             value = View.findDrawableById("currentLat");
@@ -144,6 +129,17 @@ class BergsteigenDataField2View extends WatchUi.DataField {
             value.setText("N/A");
         }
 
+        // heading
+        value = View.findDrawableById("currentHeading");
+        value.setText(getHeadingLetter(currentHeading));
+        value = View.findDrawableById("currentHeadingDeg");
+        var currentHeadingDeg = Math.toDegrees(currentHeading);
+        if (currentHeadingDeg < 0) {
+            currentHeadingDeg = 360 + currentHeadingDeg;
+        }
+        value.setText(currentHeadingDeg.format("%d") + "°");
+
+        // sunrise/sunset
         value = View.findDrawableById("sunrise");
         if (sunrise instanceof Time.Gregorian.Info) {
             value.setText(Lang.format("$1$:$2$", [sunrise.hour, sunrise.min.format("%02d")]));
@@ -157,22 +153,28 @@ class BergsteigenDataField2View extends WatchUi.DataField {
             value.setText("N/A");
         }
 
+        // calories
+        value = View.findDrawableById("calories");
+        value.setText(calories.format("%d"));
+
+        // elapsed distance
+        value = View.findDrawableById("elapsedDistance");
+        value.setText((elapsedDistance).format("%.2f"));
+
+        // temperature
+        value = View.findDrawableById("temperature");
+        value.setText(temperature.format("%d") + "°C");
+
+        // barometric pressure
+        value = View.findDrawableById("meanSeaLevelPressure");
+        value.setText((ambientPressure / 100).format("%d") + "/" + (meanSeaLevelPressure / 100).format("%d") + "hPa");
+
         // Call parent's onUpdate(dc) to redraw the layout
         View.onUpdate(dc);
 
-        drawBattery(battery, dc, 100, 220, 40, 15);
+        // all direct draw operations must be performed after View.onUpdate()
 
-        // draw arrows for sunrise and sunset
-        dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
-        dc.setPenWidth(2);
-        var xStart = 219; var yStart = 67;
-        dc.drawLine(xStart, yStart, xStart - 5, yStart + 5);
-        dc.drawLine(xStart, yStart, xStart,     yStart + 17);
-        dc.drawLine(xStart, yStart, xStart + 5, yStart + 5);
-        yStart = 109;
-        dc.drawLine(xStart, yStart, xStart - 5, yStart - 5);
-        dc.drawLine(xStart, yStart, xStart,     yStart - 17);
-        dc.drawLine(xStart, yStart, xStart + 5, yStart - 5);
+        drawBattery(battery, dc, 100, 220, 40, 15);
     }
 
     /*
@@ -184,7 +186,7 @@ class BergsteigenDataField2View extends WatchUi.DataField {
      * @param Number width
      * @param Number height
      */
-    function drawBattery(battery, dc, xStart, yStart, width, height) {
+    protected function drawBattery(battery, dc, xStart, yStart, width, height) {
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_WHITE);
         dc.fillRectangle(xStart, yStart, width, height);
         if (battery < 10) {
@@ -199,6 +201,51 @@ class BergsteigenDataField2View extends WatchUi.DataField {
 
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_WHITE);
         dc.fillRectangle(xStart + width - 1, yStart + 3, 4, height - 6);
+    }
+
+    /*
+     * @param Number heading heading in radians
+     */
+    protected function getHeadingLetter(heading) {
+        // shift by 11.75 degrees to simplify the if statements
+        var headingDegrees = Math.toDegrees(heading) + 11.75;
+        var letter = "-";
+        if (headingDegrees < -157.5) {
+            letter = "S";
+        } else if (headingDegrees < -135) {
+            letter = "SSW";
+        } else if (headingDegrees < -112.5) {
+            letter = "SW";
+        } else if (headingDegrees < -90) {
+            letter = "WSW";
+        } else if (headingDegrees < -67.5) {
+            letter = "W";
+        } else if (headingDegrees < -45) {
+            letter = "WNW";
+        } else if (headingDegrees < -22.5) {
+            letter = "NW";
+        } else if (headingDegrees < 0) {
+            letter = "NNW";
+        } else if (headingDegrees < 22.5) {
+            letter = "N";
+        } else if (headingDegrees < 45) {
+            letter = "NNO";
+        } else if (headingDegrees < 67.5) {
+            letter = "NO";
+        } else if (headingDegrees < 90) {
+            letter = "ONO";
+        } else if (headingDegrees < 112.5) {
+            letter = "O";
+        } else if (headingDegrees < 135) {
+            letter = "OSO";
+        } else if (headingDegrees < 157.5) {
+            letter = "SO";
+        } else if (headingDegrees < 180) {
+            letter = "SSO";
+        } else if (headingDegrees < 202.5) {
+            letter = "S";
+        }
+        return letter;
     }
 
 }
