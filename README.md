@@ -16,3 +16,5 @@ Values on this DataField:
 * elapsed distance during this activity (in my opinion the ascent and descent are more important during mountain tours, so these values are on DataField 1)
 * battery status icon
 * current clock time
+* current temperature in degrees celsius
+* current barometric pressure and mean sea level pressure (altitude and temperature compensated value) in hPa
