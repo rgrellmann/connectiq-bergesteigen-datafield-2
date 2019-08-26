@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="3" lineNum="28" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="3" lineNum="29" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="3" lineNum="30" pc="268435469" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="4" lineNum="33" pc="268435479" symbol="fromJulian"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="4" lineNum="34" pc="268435483" symbol="fromJulian"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="5" lineNum="37" pc="268435570" symbol="round"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="5" lineNum="38" pc="268435574" symbol="round"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="5" lineNum="39" pc="268435585" symbol="round"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="5" lineNum="41" pc="268435615" symbol="round"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="46" pc="268435643" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="47" pc="268435647" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="48" pc="268435702" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="49" pc="268435733" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="50" pc="268435775" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="51" pc="268435818" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="52" pc="268435846" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="53" pc="268435877" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="54" pc="268435980" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="55" pc="268436020" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="56" pc="268436057" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="57" pc="268436109" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="58" pc="268436164" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="59" pc="268436174" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="62" pc="268436187" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="64" pc="268436299" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="65" pc="268436324" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="68" pc="268436329" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="70" pc="268436384" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="71" pc="268436427" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="72" pc="268436441" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="75" pc="268436458" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\SunCalc.mc" id="6" lineNum="77" pc="268436480" symbol="calculate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="8" lineNum="9" pc="268436495" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="8" lineNum="10" pc="268436499" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="8" lineNum="13" pc="268436520" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="9" lineNum="19" pc="268436541" symbol="setColor"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="9" lineNum="20" pc="268436545" symbol="setColor"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="10" lineNum="26" pc="268436556" symbol="draw"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="10" lineNum="27" pc="268436560" symbol="draw"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="10" lineNum="28" pc="268436592" symbol="draw"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="10" lineNum="29" pc="268436604" symbol="draw"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="10" lineNum="30" pc="268436640" symbol="draw"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="10" lineNum="31" pc="268436672" symbol="draw"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="10" lineNum="32" pc="268436704" symbol="draw"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="10" lineNum="33" pc="268436740" symbol="draw"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2Background.mc" id="10" lineNum="34" pc="268436772" symbol="draw"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2App.mc" id="12" lineNum="5" pc="268436805" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2App.mc" id="12" lineNum="6" pc="268436809" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2App.mc" id="13" lineNum="10" pc="268436828" symbol="onStart"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2App.mc" id="14" lineNum="14" pc="268436833" symbol="onStop"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2App.mc" id="15" lineNum="18" pc="268436838" symbol="getInitialView"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2App.mc" id="15" lineNum="19" pc="268436842" symbol="getInitialView"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="17" lineNum="30" pc="268436880" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="17" lineNum="31" pc="268436884" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="17" lineNum="32" pc="268436902" symbol="initialize"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="18" lineNum="40" pc="268436926" symbol="onLayout"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="18" lineNum="41" pc="268436930" symbol="onLayout"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="18" lineNum="42" pc="268436973" symbol="onLayout"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="18" lineNum="43" pc="268437010" symbol="onLayout"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="18" lineNum="44" pc="268437047" symbol="onLayout"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="18" lineNum="45" pc="268437084" symbol="onLayout"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="18" lineNum="46" pc="268437136" symbol="onLayout"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="18" lineNum="47" pc="268437188" symbol="onLayout"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="57" pc="268437192" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="58" pc="268437196" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="59" pc="268437219" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="61" pc="268437248" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="62" pc="268437321" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="63" pc="268437345" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="64" pc="268437356" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="65" pc="268437369" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="67" pc="268437388" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="71" pc="268437417" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="72" pc="268437428" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="73" pc="268437441" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="74" pc="268437457" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="77" pc="268437536" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="78" pc="268437560" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="79" pc="268437577" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="80" pc="268437596" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="81" pc="268437641" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="83" pc="268437689" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="84" pc="268437698" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="85" pc="268437707" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="88" pc="268437719" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="89" pc="268437762" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="90" pc="268437806" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="91" pc="268437825" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="19" lineNum="92" pc="268437832" symbol="compute"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="102" pc="268437849" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="104" pc="268437853" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="106" pc="268437896" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="107" pc="268437910" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="108" pc="268437937" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="110" pc="268437954" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="111" pc="268438053" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="112" pc="268438077" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="113" pc="268438101" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="116" pc="268438128" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="117" pc="268438152" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="119" pc="268438186" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="120" pc="268438210" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="122" pc="268438250" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="123" pc="268438274" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="125" pc="268438355" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="126" pc="268438379" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="128" pc="268438414" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="129" pc="268438438" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="131" pc="268438534" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="132" pc="268438558" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="134" pc="268438598" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="135" pc="268438630" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="136" pc="268438649" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="137" pc="268438673" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="138" pc="268438707" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="139" pc="268438731" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="141" pc="268438768" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="142" pc="268438792" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="143" pc="268438809" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="144" pc="268438833" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="147" pc="268438850" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="148" pc="268438874" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="149" pc="268438904" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="151" pc="268439003" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="153" pc="268439020" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="154" pc="268439044" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="155" pc="268439074" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="157" pc="268439173" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="161" pc="268439190" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="163" pc="268439210" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="166" pc="268439252" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="167" pc="268439288" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="168" pc="268439305" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="168" pc="268439312" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="169" pc="268439319" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="170" pc="268439351" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="171" pc="268439377" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="172" pc="268439409" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="173" pc="268439416" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="174" pc="268439448" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="20" lineNum="175" pc="268439474" symbol="onUpdate"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="187" pc="268439507" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="188" pc="268439511" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="189" pc="268439547" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="190" pc="268439567" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="191" pc="268439578" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="192" pc="268439614" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="193" pc="268439737" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="194" pc="268439748" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="196" pc="268439787" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="198" pc="268439823" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="200" pc="268439876" symbol="drawBattery"/>
+        <entry filename="C:\\Development\\Garmin\\eclipse-workspace\\BergsteigenDataField2\\source\\BergsteigenDataField2View.mc" id="21" lineNum="201" pc="268439912" symbol="drawBattery"/>
+        <entry filename="Rez" id="28" lineNum="22" pc="268439957" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="26" pc="268439969" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="27" pc="268439993" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="28" pc="268440149" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="29" pc="268440182" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="30" pc="268440234" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="31" pc="268440375" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="32" pc="268440516" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="33" pc="268440657" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="34" pc="268440798" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="35" pc="268440939" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="36" pc="268441080" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="37" pc="268441221" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="38" pc="268441362" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="39" pc="268441503" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="40" pc="268441644" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="41" pc="268441785" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="42" pc="268441926" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="43" pc="268442067" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="46" pc="268442208" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389719" method="true" symbol="round"/>
+        <entry field="true" id="11" symbol="NUM_RESULTS"/>
+        <entry field="true" id="8390213" symbol="ambientPressure"/>
+        <entry id="8389781" module="true" symbol="SensorHistory"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="19" method="true" symbol="drawBattery"/>
+        <entry field="true" id="9" symbol="SUNRISE"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry field="true" id="16" symbol="clockTime"/>
+        <entry field="true" id="8388893" symbol="PI"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388764" method="true" symbol="format"/>
+        <entry field="true" id="28" symbol="PI2"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="8388736" symbol="currentLocation"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="31" symbol="J0"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="23" method="true" symbol="MainLayout"/>
+        <entry field="true" id="32" symbol="TIMES"/>
+        <entry id="44" method="true" symbol="fromJulian"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="18" symbol="sunset"/>
+        <entry field="true" id="41" symbol="sin2L"/>
+        <entry id="8389314" symbol="latitude"/>
+        <entry id="12" object="true" symbol="SunCalc"/>
+        <entry field="true" id="8388724" symbol="battery"/>
+        <entry id="8389808" symbol="period"/>
+        <entry field="true" id="24" symbol="labelDistance"/>
+        <entry field="true" id="8388737" symbol="calories"/>
+        <entry id="8389131" method="true" symbol="setColor"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="25" symbol="AppName"/>
+        <entry id="13" object="true" symbol="BergsteigenDataField2App"/>
+        <entry field="true" id="38" symbol="sinM"/>
+        <entry field="true" id="8388962" symbol="temperature"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="45" method="true" symbol="calculate"/>
+        <entry field="true" id="22" symbol="LauncherIcon"/>
+        <entry field="true" id="43" symbol="Jnoon"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8390212" symbol="meanSeaLevelPressure"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry field="true" id="17" symbol="sunrise"/>
+        <entry field="true" id="15" symbol="bgColor"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="10" symbol="SUNSET"/>
+        <entry field="true" id="8388734" symbol="elapsedDistance"/>
+        <entry field="true" id="8388928" symbol="SECONDS_PER_DAY"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="42" symbol="dec"/>
+        <entry field="true" id="27" symbol="RAD"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="8388757" symbol="currentHeading"/>
+        <entry field="true" id="29" symbol="J1970"/>
+        <entry field="true" id="33" symbol="lastD"/>
+        <entry id="14" object="true" symbol="BergsteigenDataField2View"/>
+        <entry id="21" module="true" symbol="Layouts"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry field="true" id="26" symbol="labelSun"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389317" symbol="degrees"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="20" module="true" symbol="Menus"/>
+        <entry id="8389800" method="true" symbol="getTemperatureHistory"/>
+        <entry field="true" id="30" symbol="J2000"/>
+        <entry field="true" id="36" symbol="ds"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="35" symbol="n"/>
+        <entry id="8389315" symbol="longitude"/>
+        <entry field="true" id="34" symbol="lastLng"/>
+        <entry field="true" id="37" symbol="M"/>
+        <entry field="true" id="40" symbol="L"/>
+        <entry field="true" id="39" symbol="C"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435570" name="j" stackId="1" startPc="268435479"/>
+        <entry endPc="268435643" name="a" stackId="1" startPc="268435570"/>
+        <entry endPc="268436494" name="x" stackId="6" startPc="268435647"/>
+        <entry endPc="268436494" name="ds" stackId="7" startPc="268435647"/>
+        <entry endPc="268436494" name="Jrise" stackId="9" startPc="268435647"/>
+        <entry endPc="268436494" name="Jset" stackId="8" startPc="268435647"/>
+        <entry endPc="268436494" name="d" stackId="5" startPc="268435647"/>
+        <entry endPc="268436495" name="lng" stackId="3" startPc="268435643"/>
+        <entry endPc="268436495" name="what" stackId="4" startPc="268435643"/>
+        <entry endPc="268436495" name="lat" stackId="2" startPc="268435643"/>
+        <entry endPc="268436495" name="moment" stackId="1" startPc="268435643"/>
+        <entry endPc="268436540" name="dictionary" stackId="1" startPc="268436499"/>
+        <entry endPc="268436556" name="color" stackId="1" startPc="268436541"/>
+        <entry endPc="268436805" name="dc" stackId="1" startPc="268436556"/>
+        <entry endPc="268436833" name="state" stackId="1" startPc="268436828"/>
+        <entry endPc="268436838" name="state" stackId="1" startPc="268436833"/>
+        <entry endPc="268437192" name="dc" stackId="1" startPc="268436926"/>
+        <entry endPc="268437417" name="i" stackId="3" startPc="268437345"/>
+        <entry endPc="268437686" name="now" stackId="5" startPc="268437441"/>
+        <entry endPc="268437686" name="loc" stackId="6" startPc="268437441"/>
+        <entry endPc="268437686" name="sc" stackId="4" startPc="268437441"/>
+        <entry endPc="268437845" name="temperatureHistory" stackId="7" startPc="268437762"/>
+        <entry endPc="268437845" name="lastTemperature" stackId="8" startPc="268437762"/>
+        <entry endPc="268437848" name="numberProperties" stackId="2" startPc="268437196"/>
+        <entry endPc="268437849" name="info" stackId="1" startPc="268437192"/>
+        <entry endPc="268438115" name="drawable" stackId="5" startPc="268438077"/>
+        <entry endPc="268438128" name="i" stackId="4" startPc="268438077"/>
+        <entry endPc="268438765" name="locationDecimal" stackId="7" startPc="268438630"/>
+        <entry endPc="268439506" name="drawables" stackId="3" startPc="268437853"/>
+        <entry endPc="268439506" name="foregroundColor" stackId="2" startPc="268437853"/>
+        <entry endPc="268439506" name="yStart" stackId="9" startPc="268437853"/>
+        <entry endPc="268439506" name="value" stackId="6" startPc="268437853"/>
+        <entry endPc="268439506" name="xStart" stackId="8" startPc="268437853"/>
+        <entry endPc="268439507" name="dc" stackId="1" startPc="268437849"/>
+        <entry endPc="268439957" name="height" stackId="6" startPc="268439507"/>
+        <entry endPc="268439957" name="battery" stackId="1" startPc="268439507"/>
+        <entry endPc="268439957" name="dc" stackId="2" startPc="268439507"/>
+        <entry endPc="268439957" name="width" stackId="5" startPc="268439507"/>
+        <entry endPc="268439957" name="yStart" stackId="4" startPc="268439507"/>
+        <entry endPc="268439957" name="xStart" stackId="3" startPc="268439507"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_meanSeaLevelPressure" stackId="18" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_labelCalories" stackId="12" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_clockTime_fontHeight" stackId="4" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_custom_drawable_57277660013999074022" stackId="2" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_labelSun" stackId="8" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_currentHeading" stackId="11" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_unitElapsedDistance" stackId="16" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_currentLat" stackId="6" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_calories" stackId="13" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_sunset" stackId="10" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_labelLocation" stackId="5" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_elapsedDistance" stackId="15" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_clockTime" stackId="3" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_temperature" stackId="17" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_sunrise" stackId="9" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_labelElapsedDistance" stackId="14" startPc="268439969"/>
+        <entry endPc="268442375" name="rez_cmp_local_bitmap_currentLon" stackId="7" startPc="268439969"/>
+        <entry endPc="268442376" name="dc" stackId="1" startPc="268439957"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="SunCalc">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="fromJulian" parent="SunCalc">
+            <param id="j"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="round" parent="SunCalc">
+            <param id="a"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="calculate" parent="SunCalc">
+            <param id="moment"/>
+            <param id="lat"/>
+            <param id="lng"/>
+            <param id="what"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setColor" parent="Background">
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BergsteigenDataField2App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="BergsteigenDataField2App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="BergsteigenDataField2App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="BergsteigenDataField2App">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BergsteigenDataField2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="BergsteigenDataField2View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="BergsteigenDataField2View">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="BergsteigenDataField2View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBattery" parent="BergsteigenDataField2View">
+            <param id="battery"/>
+            <param id="dc"/>
+            <param id="xStart"/>
+            <param id="yStart"/>
+            <param id="width"/>
+            <param id="height"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="222" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="293" parentId="globals" symbolId="BergsteigenDataField2View" type="class"/>
+        <dataEntry offset="460" parentId="globals" symbolId="BergsteigenDataField2App" type="class"/>
+        <dataEntry offset="531" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="610" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="649" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="680" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="711" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="742" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="781" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="836" parentId="globals" symbolId="SunCalc" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
