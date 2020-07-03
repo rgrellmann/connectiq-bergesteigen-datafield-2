@@ -123,7 +123,7 @@ class BergsteigenDataField2View extends WatchUi.DataField {
         value.setText((ambientPressure / 100).format("%d") + "/" + (meanSeaLevelPressure / 100).format("%d") + "hPa");
 
         value = View.findDrawableById("currentHeading");
-        value.setText(Math.toDegrees(currentHeading));
+        value.setText(Math.toDegrees(currentHeading).format("%d"));
 
         value = View.findDrawableById("clockTime");
         value.setText(Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]));
